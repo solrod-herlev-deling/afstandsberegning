@@ -1,0 +1,1 @@
+C:\Users\jonp>E:\postgres\app\9.5\bin\osm2pgrouting.exe -f C:\Users\jonp\Downloads\denmark-latest.osm\denmark-latest.osm -c mapconfig_general.xml --schema=osm_network -d databasenavn -U databasebruger -h host (fx localhost) -p portnummer (fx 5432) -W password --clean
